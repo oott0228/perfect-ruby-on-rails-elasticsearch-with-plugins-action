@@ -1,1 +1,1 @@
-# perfect-ruby-on-rails-elasticsearch-with-plugins-action
+Voici un dépôt pour utiliser Elasticsearch dans GitHub Actions.
